@@ -3,7 +3,7 @@
 📆Class of 2026  
 🌐Exploring Web Development & Open Source  
 💻Currently learning: Python, JavaScript, Git, and Linux  
-🐱Fun fact: My GitHub profile pic is a very serious developer
+🐱Fun fact: My GitHub profile pic is a very serious developer🐾
 
 ## 🚀 Goals
 - Build and share mini projects
